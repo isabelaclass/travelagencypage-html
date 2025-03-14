@@ -13,8 +13,8 @@ This repository contains my third basic HTML project, *TravelAgencyPage*, which 
 
 ## 📷 Preview
 Check out the project:
-- ![Destination 1](assets/TravelPageAgencyOne.png)
-- ![Destination 2](assets/TravelPageAgencyTwo.png)
-- ![Destination 3](assets/TravelPageAgencyThree.png)
+![Photo 1](TravelAgencyPageFirst.png)
+![Photo 2](TravelAgencyPageSecond.png)
+
 
 ## 👩‍💻 Developed with ❤️ by Isabela
